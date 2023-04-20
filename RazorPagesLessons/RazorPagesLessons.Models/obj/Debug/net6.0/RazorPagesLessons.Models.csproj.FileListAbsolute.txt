@@ -1,0 +1,12 @@
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Models\bin\Debug\net6.0\RazorPagesLessons.Models.deps.json
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Models\bin\Debug\net6.0\RazorPagesLessons.Models.dll
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Models\bin\Debug\net6.0\RazorPagesLessons.Models.pdb
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Models\obj\Debug\net6.0\RazorPagesLessons.Models.csproj.AssemblyReference.cache
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Models\obj\Debug\net6.0\RazorPagesLessons.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Models\obj\Debug\net6.0\RazorPagesLessons.Models.AssemblyInfoInputs.cache
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Models\obj\Debug\net6.0\RazorPagesLessons.Models.AssemblyInfo.cs
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Models\obj\Debug\net6.0\RazorPagesLessons.Models.csproj.CoreCompileInputs.cache
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Models\obj\Debug\net6.0\RazorPagesLessons.Models.dll
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Models\obj\Debug\net6.0\refint\RazorPagesLessons.Models.dll
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Models\obj\Debug\net6.0\RazorPagesLessons.Models.pdb
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Models\obj\Debug\net6.0\ref\RazorPagesLessons.Models.dll

@@ -1,0 +1,17 @@
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\bin\Debug\net6.0\RazorPagesLessons.Services.deps.json
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\bin\Debug\net6.0\RazorPagesLessons.Services.dll
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\bin\Debug\net6.0\RazorPagesLessons.Services.pdb
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\bin\Debug\net6.0\RazorPagesLessons.Models.dll
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\bin\Debug\net6.0\RazorPagesLessons.Models.pdb
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\obj\Debug\net6.0\RazorPagesLessons.Services.csproj.AssemblyReference.cache
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\obj\Debug\net6.0\RazorPagesLessons.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\obj\Debug\net6.0\RazorPagesLessons.Services.AssemblyInfoInputs.cache
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\obj\Debug\net6.0\RazorPagesLessons.Services.AssemblyInfo.cs
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\obj\Debug\net6.0\RazorPagesLessons.Services.csproj.CoreCompileInputs.cache
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\obj\Debug\net6.0\RazorPagesLessons.Services.csproj.CopyComplete
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\obj\Debug\net6.0\RazorPagesLessons.Services.dll
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\obj\Debug\net6.0\refint\RazorPagesLessons.Services.dll
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\obj\Debug\net6.0\RazorPagesLessons.Services.pdb
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\obj\Debug\net6.0\ref\RazorPagesLessons.Services.dll
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\bin\Debug\net6.0\RazorPagesLessons.Services.runtimeconfig.json
+C:\Users\Steklyashka\source\repos\RazorPagesLessons\RazorPagesLessons.Services\obj\Debug\net6.0\RazorPagesLessons.Services.genruntimeconfig.cache

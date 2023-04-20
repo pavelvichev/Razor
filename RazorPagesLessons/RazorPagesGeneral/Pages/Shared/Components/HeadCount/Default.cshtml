@@ -1,0 +1,20 @@
+﻿@using RazorPagesLessons.Models
+@model IEnumerable<DeptHeadCount>
+
+	<table class=" table tablr-hover rounded-pill">
+		<thead class= "thead-light">
+			<tr>
+				<th>Department</th>
+				<th>Head Count</th>
+			</tr>
+			<tbody>
+			@foreach(var item in Model)
+			{
+				<tr>
+					<td>@item.Depatrment</td>
+					<td>@item.Count</td>
+				</tr>
+			}
+		</tbody>
+		</thead>
+	</table>
