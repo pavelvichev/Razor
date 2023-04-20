@@ -1,0 +1,17 @@
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\bin\Debug\net6.0\ShopProject.Services.deps.json
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\bin\Debug\net6.0\ShopProject.Services.dll
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\bin\Debug\net6.0\ShopProject.Services.pdb
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\bin\Debug\net6.0\ShopProject.Models.dll
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\bin\Debug\net6.0\ShopProject.Models.pdb
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\obj\Debug\net6.0\ShopProject.Services.csproj.AssemblyReference.cache
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\obj\Debug\net6.0\ShopProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\obj\Debug\net6.0\ShopProject.Services.AssemblyInfoInputs.cache
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\obj\Debug\net6.0\ShopProject.Services.AssemblyInfo.cs
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\obj\Debug\net6.0\ShopProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\obj\Debug\net6.0\ShopProject.Services.csproj.CopyComplete
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\obj\Debug\net6.0\ShopProject.Services.dll
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\obj\Debug\net6.0\refint\ShopProject.Services.dll
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\obj\Debug\net6.0\ShopProject.Services.pdb
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\obj\Debug\net6.0\ref\ShopProject.Services.dll
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\bin\Debug\net6.0\ShopProject.Services.runtimeconfig.json
+C:\Users\Steklyashka\source\repos\ShopProject\ShopProject.Services\obj\Debug\net6.0\ShopProject.Services.genruntimeconfig.cache
